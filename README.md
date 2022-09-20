@@ -1,2 +1,34 @@
-# SimpleSnipesTOP
-Hypxel skyblock ah flipping mod ah flipper skyblock ah sniper ah flipping mod method notenoughcoins nec simplesnipes ah flipping skyblock hypixel Hypxel skyblock ah flipping mod ah flipper skyblock ah sniper ah flipping mod method notenoughcoins nec simplesnipes ah flipping skyblock hypixel Hypxel skyblock ah flipping mod ah flipper skyblock ah …
+# SimpleSnipes
+
+<p align="center">
+  <a href="https://github.com/SkyblockQOLhub/SimpleSnipes/releases/latest" target="_blank">
+    <img alt="version" src="https://img.shields.io/badge/RELEASE-1.0-blueviolet?color=%239f00ff&style=for-the-badge" />
+  </a>
+  <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html" target="_blank">
+    <img alt="mcversion" src="https://img.shields.io/badge/MC%20Version-1.8.9-blue?color=%239f00ff&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/SkyblockQOLhub/SimpleSnipes/releases/latest" target="_blank">
+    <img alt="downloads" src="https://img.shields.io/badge/DOWNLOADS-12k-a?color=%239f00ff&style=for-the-badge" />
+    </a>
+    <a href="https://discord.gg/kr2M7HutgK" target="_blank">
+    <img alt="discord" src="https://img.shields.io/discord/804143990869590066?color=%239f00ff&label=Discord&style=for-the-badge" />
+  </a>
+</p>
+
+### What it does:
+
+Ah flipping :|
+
+### How to use it?
+- `/ss` - Shows the config GUI
+- `/ss help` - Shows the help message containing all the subcommands and their usage
+- `/ss toggle` - Enables the mod to return a list of suggested items to flip whenever one is found.
+
+
+### Is this bannable?
+No
+
+
+ ### Credits:
+Big thanks to the respective authors of NotEnoughUpdates for various pieces of code used in this mod.
+https://github.com/NotEnoughCoins/NotEnoughCoins
